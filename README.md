@@ -26,7 +26,7 @@ This project is a personal portfolio website developed to showcase my profile, t
 
 Portfolio-Website/
 ├── index.html
-├── script.js
+├── first.js
 └── README.md
 
 
